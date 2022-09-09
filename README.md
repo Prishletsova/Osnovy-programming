@@ -3,7 +3,7 @@
 
 # Lab works:
 
-3. [Типы данных]().
+3. [Типы данных](https://drive.google.com/drive/folders/1xGoMrQvy62wSapLaP2V89SMSluhihSXh?usp=sharing).
 4. [Поток команд (управляющие структуры)]().
 5. [Подпрограммы]().
 6. [Вычислительная сложность алгоритмов]().
