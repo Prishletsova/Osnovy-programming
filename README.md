@@ -1,4 +1,4 @@
-# Osnovy-programming
+# Osnovy_programming
 
 
 # Lab works:
