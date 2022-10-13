@@ -4,7 +4,7 @@
 # Lab works:
 
 3. [Типы данных](https://colab.research.google.com/drive/1pfKEkTPib3MvKelmA3gVOI-vRFSgRLjI?usp=sharing).
-4. [Поток команд (управляющие структуры)]().
+4. [Поток команд (управляющие структуры)](https://colab.research.google.com/drive/1ILcGpoJiQ-pcxxJeuywTbhvG0cQtRwQN#scrollTo=cf19GKaDk5lE).
 5. [Подпрограммы]().
 6. [Вычислительная сложность алгоритмов]().
 7. [Ошибки и исключения]().
